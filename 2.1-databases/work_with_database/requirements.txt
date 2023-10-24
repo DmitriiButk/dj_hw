@@ -1,2 +1,6 @@
-django
-psycopg2-binary
+asgiref==3.7.2
+Django==4.2.6
+psycopg2-binary==2.9.9
+pytils==0.4.1
+sqlparse==0.4.4
+tzdata==2023.3
